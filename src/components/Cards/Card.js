@@ -1,12 +1,12 @@
 import React from "react";
 import "./style.css";
 
-function Card() {
+function Card(props) {
     return (
         <div className="card">
-            <div className="img-container">
-                <img alt="Bart" src="https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png" />
-            </div>
+            <button className="img-container" onClick={props.onClick}>
+                <img alt={props.name} src={props.image} />
+            </button>
         </div>
 
 
