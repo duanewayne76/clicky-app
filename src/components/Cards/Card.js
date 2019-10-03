@@ -14,3 +14,5 @@ function Card(props) {
 }
 
 export default Card;
+
+// Source url: http://www.3djoes.com/the-gi-joe-yearbook-a-visual-index-of-carded-figures.html

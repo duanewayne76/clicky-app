@@ -1,3 +1,7 @@
+body {
+    background-color: #231f20;
+}
+
 .card {
   background: #fff;
   border-radius: 2px;
@@ -5,15 +9,16 @@
   position: relative;
   box-sizing: border-box;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
-  text-align: left;
+  text-align: center;
+  margin: 1rem;
 }
 
 .card > .img-container {
   overflow: hidden;
   text-align: center;
-  background:#6CADDC;
+  background: green;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
-.card > .img-container > img {
-  width: 60%
-}
+
 

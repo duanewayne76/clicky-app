@@ -43,6 +43,7 @@ class App extends React.Component {
       cards: cards,
       youWon: (this.selections.length === cards.length)
     })
+    
   }
 
   render() {
@@ -72,3 +73,5 @@ function shuffle(a) {
 }
 
 export default App;
+// 
+// Add additional functions for winning the Gamepad, different levels adding additional cards?

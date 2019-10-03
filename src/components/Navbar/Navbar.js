@@ -11,7 +11,7 @@ function Nav(props) {
 
                 <li className="feedback">{props.feedback}</li>
                 <li className="score">
-                    Score: {props.score}
+                    Score: {props.score} &nbsp;|&nbsp; 
                     Top Score: {props.highScore}
                     </li>
             </ul>
