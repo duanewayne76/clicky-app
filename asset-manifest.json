@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc2f4077.chunk.css",
+    "main.js": "/static/js/main.6a2dbf50.chunk.js",
+    "main.js.map": "/static/js/main.6a2dbf50.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.074b048b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.074b048b.js.map",
+    "static/js/2.8266f532.chunk.js": "/static/js/2.8266f532.chunk.js",
+    "static/js/2.8266f532.chunk.js.map": "/static/js/2.8266f532.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e18eddee38757726ad9e49fc120fa7bc.js": "/precache-manifest.e18eddee38757726ad9e49fc120fa7bc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.dc2f4077.chunk.css.map": "/static/css/main.dc2f4077.chunk.css.map",
+    "static/media/gijoe_black.jpg": "/static/media/gijoe_black.67c81d8f.jpg"
+  }
+}
