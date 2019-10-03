@@ -2,73 +2,73 @@
     {
       "id": 1,
       "name": "Roadblock",
-      "image": "/images/characters1.jpg"
+      "image": "images/characters1.jpg"
      
     },
     {
       "id": 2,
       "name": "Scrap-Iron",
-      "image": "/images/characters2.jpg"
+      "image": "images/characters2.jpg"
       
     },
     {
       "id": 3,
       "name": "Don't Know",
-      "image": "/images/characters3.jpg"
+      "image": "images/characters3.jpg"
       
     },
     {
       "id": 4,
       "name": "Recondo",
-      "image": "/images/characters4.jpg"
+      "image": "images/characters4.jpg"
       
     },
     {
       "id": 5,
       "name": "Cobra Commander",
-      "image": "/images/characters5.jpg"
+      "image": "images/characters5.jpg"
       
     },
     {
       "id": 6,
       "name": "Scarlett",
-      "image": "/images/characters6.jpg"
+      "image": "images/characters6.jpg"
       
     },
     {
       "id": 7,
       "name": "Major Bludd",
-      "image": "/images/characters7.jpg"
+      "image": "images/characters7.jpg"
       
     },
     {
       "id": 8,
       "name": "Blowtorch",
-      "image": "/images/characters8.jpg"
+      "image": "images/characters8.jpg"
       
     },
     {
       "id": 9,
       "name": "Baroness",
-      "image": "/images/characters9.jpg"
+      "image": "images/characters9.jpg"
       
     },
     {
       "id": 10,
       "name": "Stalker",
-      "image": "/images/characters10.jpg"
+      "image": "images/characters10.jpg"
       
     },
     {
       "id": 11,
       "name": "Snow Job",
-      "image": "/images/characters11.jpg"
+      "image": "images/characters11.jpg"
       
     },
     {
       "id": 12,
       "name": "Destro",
-      "image": "/images/characters12.jpg"
+      "image": "images/characters12.jpg"
       
     }
   ]
