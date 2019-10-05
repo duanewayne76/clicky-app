@@ -6,7 +6,7 @@ function Nav(props) {
         <nav className="navbar">
             <ul>
                 <li className="brand">
-                    <a href="/">Clicky Game</a>
+                    <a href="/clicky-app">Clicky Game</a>
                 </li>
 
                 <li className="feedback">{props.feedback}</li>
